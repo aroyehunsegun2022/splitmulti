@@ -1,0 +1,21 @@
+[
+    {
+        "id": 1,
+        "name": "Palm Oil",
+        "Price": 20000,
+        "imageUrl":"/images/Palmoil.jpeg"
+    },
+
+    {
+        "id": 2,
+        "name": "Bottle Water",
+        "Price": 5400,
+        "imageUrl": "/images/btlwater.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Bread",
+        "Price": 2000,
+        "imageUrl": "/images/bread.jpeg"
+    }
+]
